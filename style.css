@@ -1,0 +1,299 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.center button {
+  border: none;
+  margin: 0 10px;
+  background-color: white;
+}
+.color {
+  color: rgb(145, 37, 246);
+}
+.heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+}
+.h h1 {
+  color: rgb(152, 114, 187);
+  margin-top: 50px;
+}
+.darmiyan {
+  text-align: center;
+}
+.para {
+  text-align: center;
+  font-size: larger;
+}
+.input {
+  text-align: center;
+}
+.input input {
+  padding: 5px 130px;
+}
+.btn {
+  text-align: center;
+  margin-top: 30px;
+}
+.btn button {
+  padding: 8px 20px;
+  background-color: rgb(156, 87, 220);
+  border-radius: 10px;
+  border: none;
+  color: white;
+}
+.para2 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: xx-large;
+  color: rgb(152, 66, 233);
+}
+.button9 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.button9 button {
+  margin: 0 10px;
+  color: rgb(157, 71, 238);
+  border-radius: 5px;
+  border: 1px solid purple;
+  padding: 4px 8px;
+}
+.button4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.button4 button {
+  margin: 0 10px;
+  color: rgb(157, 71, 238);
+  border-radius: 5px;
+  border: 1px solid purple;
+  padding: 4px 8px;
+}
+.para3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para4 {
+  margin-top: 100px;
+}
+.para5 {
+  text-align: center;
+  font-size: xx-large;
+}
+.span {
+  color: rgb(151, 51, 245);
+}
+.para10 {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  gap: 40px;
+}
+
+.para11 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(234, 223, 244);
+  border-radius: 20px;
+}
+.para11 p {
+  width: 200px;
+  height: 100px;
+}
+.para11 h4 {
+  color: rgb(138, 43, 226);
+}
+.main {
+  text-align: center;
+  margin-top: 60px;
+}
+.main h1 {
+  font-size: xx-large;
+}
+.super {
+  color: rgb(139, 38, 233);
+}
+.banner {
+  margin: 30px 20px;
+}
+.br {
+  text-align: center;
+
+  margin-top: 60px;
+}
+.br span {
+  color: rgb(143, 33, 247);
+}
+.para0 {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  gap: 40px;
+}
+.para12 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(234, 223, 244);
+  border-radius: 20px;
+}
+.para12 h4 {
+  color: rgb(138, 43, 226);
+}
+.para12 p {
+  width: 200px;
+  height: 60px;
+  margin-top: 5px;
+}
+.para20 {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  gap: 40px;
+}
+.para13 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(234, 223, 244);
+  border-radius: 20px;
+}
+.para13 h4 {
+  color: rgb(138, 43, 226);
+}
+.para13 p {
+  width: 200px;
+  height: 60px;
+  margin-top: 5px;
+}
+.second {
+  text-align: center;
+  margin-top: 150px;
+}
+.second span {
+  color: rgb(138, 43, 226);
+}
+.layer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 90px;
+}
+.layer0 {
+  flex: 1;
+  text-align: center;
+}
+.who {
+  color: blueviolet;
+  margin-right: 100px;
+}
+.layer20 {
+  display: flex;
+  flex: start;
+  justify-content: center;
+  align-items: center;
+}
+.post {
+  color: blueviolet;
+}
+.see {
+  margin-right: 70px;
+}
+.back {
+  background-color: blueviolet;
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.back10 {
+  margin-left: 20px;
+  margin-bottom: 50px;
+  width: 100px;
+}
+.us {
+  color: white;
+}
+.job {
+  width: 250px;
+  color: white;
+}
+.back30 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  color: white;
+  margin-bottom: 40px;
+
+  width: 200px;
+}
+.back11 {
+  margin-right: 200px;
+}
+.follow h1 {
+  background-color: blueviolet;
+  color: white;
+}
+.foot {
+  background-color: blueviolet;
+  width: 100%;
+  height: 78vh;
+  margin-top: 40px;
+}
+.com {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 60px;
+  margin-right: 60px;
+  color: white;
+}
+.where p {
+  width: 300px;
+}
+.where img {
+  margin-top: 50px;
+}
+.like {
+  margin-left: 55px;
+  color: white;
+}
+.fb {
+  margin-left: 55px;
+  display: flex;
+  gap: 40px;
+}
+.card {
+  border-top: 1px solid white;
+  margin-top: 30px;
+}
+.card p {
+  color: white;
+  text-align: center;
+}
